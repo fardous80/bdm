@@ -1,7 +1,7 @@
 {
     "name": "fardous80/bdm",
     "description": "Matrimonial Website",
-    "type": "project",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
@@ -17,6 +17,7 @@
             "src/helpers.php"
         ]
     },
-    "require": {},
-    "minimum-stability": "stable"
+    "require": {
+        "fardous80/bdm": "dev-master"
+    }
 }
