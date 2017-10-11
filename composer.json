@@ -1,12 +1,12 @@
 {
-    "name": "genleeshin/bdm",
+    "name": "fardous80/bdm",
     "description": "Matrimonial Website",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Nasim Mahmud",
-            "email": "gen.lee.shin@gmail.com"
+            "email": "fardous@gmail.com"
         }
     ],
     "autoload": {
