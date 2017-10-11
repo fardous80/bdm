@@ -8,11 +8,12 @@ class BdmServiceProvider extends ServiceProvider{
 
 	public function boot()
 	{
-		
+		// register routes
+		$this->loadRoutesFrom(__DIR__.'/routes.php');
 	}
 
 	public function register()
 	{
-		// register routes
-		$this->loadRoutesFrom(__DIR__.'/routes.php');
+		
+	}
 }
