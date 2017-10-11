@@ -1,0 +1,21 @@
+{
+    "name": "genleeshin/bdm",
+    "description": "Matrimonial Website",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nasim Mahmud",
+            "email": "gen.lee.shin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bdm\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {}
+}
