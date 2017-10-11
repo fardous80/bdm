@@ -17,5 +17,6 @@
             "src/helpers.php"
         ]
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
