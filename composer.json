@@ -16,8 +16,5 @@
         "files": [
             "src/helpers.php"
         ]
-    },
-    "require": {
-        "fardous80/bdm": "dev-master"
     }
 }
