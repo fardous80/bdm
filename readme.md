@@ -1,34 +1,37 @@
-# A boilerplate for creating matrimonial website
+*** Note this is not yet production ready.
 
-A matrimonnial website developed in PHP Laravel. It has all the features of a full blown social media websites. 
+# Laravel Boilerplate for matrimonial website
 
-Features include: 
-  * Profile registration
-  * Profile Photo
-  * Cover Photo
-  * Connecting with other members
-  * Instant messaging
-  * Private messaging
-  * User blocking
-  * Subscription
+If you are thinking of creating a matrimonial website you can use this boilerplate to quickly get started. It has all the features of a modern matrimonial website such as [profile creation](https://www.bengalimarriage.com/register), profile picture, connecting with other members, private messaging etc. This is not a finished product yet, and currently there are no documentation as to how to install and configure it, but I am working on it and expect it to be added soon.
 
-The application has the following requirements.
+## What is a matrimonial website
+A matrimony website is where people go to find partner for themselves. A matrimony website is not a dating website, they are purely for finding bride or groom. You can use them to find partner for you and your family and friends. This boilerplate has already beed used to develop a popular [Bengali matrimony](https://www.bengalimarriage.com) website.
 
-- Requirements
-  * PHP 7+
-  * Laravel 5.5+
-  * Vue 2
-  * MySQL 5.6
-  * Redis
+## Features
 
-This application is a work in progress and not ready for production use. All the features are already baked in but need refactoring. After refactoring I'll start working on documentation.
+- New profile registration
+- Profile Picture
+- Cover Photo
+- User Dashboard
+- Connection
+- Private messaging
+- Chat
+- Blocking users
 
-- Links
+## Upcoming features
+- Audio Chat
+- Video Chat
+- Subscription
 
-This boilerplate has been used to create ***BengaliMarriage***, [a matrimonial website for Bangladeshis ](https://www.bengalimarriage.com). This website is specially designed for Bangladeshis living abroad to easily find a partner for themselves, their friends and families.
+## Requirements
+It is developed using PHP Laravel Framework. You would need Laravel 5.5 and above. It also heavily relies on Vue Js. Many essential components such as private messaging, chats, profile registration are handled by Vue Js. You would need the following: 
 
-The frontned of the app heavilty utilizes VueJs. Many of the VueJs components are re-usable and can be dropped into any web project. Some of its components are being used in [SaleTag](https://www.saletag.co.uk), a popular website for find clearance sale bargains on [men's](https://www.saletag.co.uk/men) and [women's](https://www.saletag.co.uk/women) clothing, footwear & accessories from top UK fashion brands.
+- PHP 7.0+
+- Laravel 5.5+
+- Vue 2.0
+- MySQL 5.6
+- Redis
 
-#### Documentation
-
-Work in progress. 
+## How to install
+The documentation for how to install will be added soon. 
+ 
